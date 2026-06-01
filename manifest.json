@@ -1,0 +1,18 @@
+{
+  "name": "Konfliktsparring – FDF",
+  "short_name": "Konflikt",
+  "description": "FDFs lille blå om konflikthåndtering",
+  "start_url": "/FDF_KHaandteing/",
+  "scope": "/FDF_KHaandteing/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1318",
+  "theme_color": "#003255",
+  "icons": [
+    {
+      "src": "https://ruby-cloud-maker.github.io/FDF_KHaandteing/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
